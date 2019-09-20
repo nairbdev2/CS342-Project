@@ -1,0 +1,40 @@
+John Bell
+exam_01_test_02
+2018/04/08 21:50:30
+668
+
+MCSAAnswer
+Eugene H. Krabs
+
+SAAnswer
+red
+
+MCSAAnswer
+Subaru WRX STI
+
+MCMAAnswer
+3
+Harry Potter
+Rubeus Hagrid
+Tom Riddle
+
+MCMAAnswer
+3
+Cortana
+Sgt. Johnson
+Spartan 117
+
+MCSAAnswer
+Tom Clancy's Rainbow Six: Siege
+
+SAAnswer
+madison
+
+NumAnswer
+2.0
+
+NumAnswer
+25.0
+
+SAAnswer
+gabe newell
